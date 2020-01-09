@@ -1,3 +1,3 @@
 <?php
-echo ("integracao com o painel de controle KG");
+echo ("Integracao com o painel de controle KG");
 ?>
